@@ -1,0 +1,82 @@
+```html id="gx7t4u"
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Survival Guide</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Minecraft Survival Guide</h1>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Introduction</h2>
+
+            <p>
+                Minecraft is a sandbox adventure game where players can build,
+                survive, and explore different worlds full of creatures and treasures.
+            </p>
+        </section>
+
+        <section>
+            <h2>Important Items in Minecraft</h2>
+
+            <ol>
+                <li>Diamond Sword</li>
+                <li>Iron Armor</li>
+                <li>Golden Apple</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>Minecraft Pictures</h2>
+
+            <img
+                src="https://images.unsplash.com/photo-1627856013091-fed6e4e30025"
+                alt="Minecraft themed grass block design"
+                width="300">
+
+            <br><br>
+
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/8/87/Minecraft_furnace.png"
+                alt="Minecraft furnace block used for smelting items"
+                width="200">
+
+            <br><br>
+
+            <img
+                src="https://upload.wikimedia.org/wikipedia/en/3/37/Steve_%28Minecraft%29.png"
+                alt="Steve character from Minecraft holding tools"
+                width="200">
+        </section>
+
+        <section>
+            <h2>Learn More</h2>
+
+            <p>
+                Visit the official Minecraft website for updates and news.
+            </p>
+
+            <a href="https://www.minecraft.net/en-us" target="_blank">
+                Official Minecraft Website
+            </a>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>HTML Final Project - Minecraft Theme</p>
+    </footer>
+
+</body>
+
+</html>
+```
