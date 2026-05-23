@@ -1,0 +1,82 @@
+```html id="2hl9bq"
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Adventure</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to Minecraft Adventure</h1>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>About Minecraft</h2>
+
+            <p>
+                Minecraft is a popular sandbox game where players can build,
+                explore, survive, and create amazing worlds using blocks.
+            </p>
+        </section>
+
+        <section>
+            <h2>My Favorite Minecraft Activities</h2>
+
+            <ul>
+                <li>Building giant castles</li>
+                <li>Exploring caves and villages</li>
+                <li>Defeating the Ender Dragon</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Minecraft Images</h2>
+
+            <img
+                src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+                alt="Minecraft game cover showing grassy blocks and landscape"
+                width="300">
+
+            <br><br>
+
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/4/48/Minecraft_creeper.png"
+                alt="Green Minecraft Creeper enemy character"
+                width="200">
+
+            <br><br>
+
+            <img
+                src="https://upload.wikimedia.org/wikipedia/en/f/fb/Minecraft_Ender_Dragon.gif"
+                alt="Minecraft Ender Dragon boss flying in the End dimension"
+                width="300">
+        </section>
+
+        <section>
+            <h2>Official Minecraft Website</h2>
+
+            <p>
+                Learn more about Minecraft by visiting the official website.
+            </p>
+
+            <a href="https://www.minecraft.net" target="_blank">
+                Visit Minecraft Official Website
+            </a>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Created for HTML Final Project</p>
+    </footer>
+
+</body>
+
+</html>
+```
